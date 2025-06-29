@@ -1,5 +1,7 @@
 # DL-course-PyTorch
-All this course is taken from this video [PyTorch for Deep Learning & Machine Learning - Full course](https://www.youtube.com/watch?v=V_xro1bcAuA&pp=2AbqoAU%3D)
+This project is based on the course:  [PyTorch for Deep Learning & Machine Learning - Full course](https://www.youtube.com/watch?v=V_xro1bcAuA&pp=2AbqoAU%3D)
+
+**Note**: The `NN_mnist` part of this project is inspired by the video: [NN from scratch](https://www.youtube.com/watch?v=w8yWXqWQYmU&pp=ygUPbm4gZnJvbSBzY3JhdGNo2AbuBw%3D%3D)
 ## 00. PyTorch Fundamentals
 
 0. **Introduction to Tensors** - Tensors are the basic building block of all of machine learning and deep learning.
